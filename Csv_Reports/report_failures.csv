@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+POST,/api/register,HTTPError('503 Server Error: Service Unavailable for url: /api/register'),1
+POST,/api/register,HTTPError('400 Client Error: Bad Request for url: /api/register'),5135
+POST,/api/login,HTTPError('400 Client Error: Bad Request for url: /api/login'),5065
